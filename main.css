@@ -1,0 +1,14 @@
+*,body{
+  margin: 0;
+  padding:0;
+}
+
+.nav{
+  height: 15vh;
+  width: 100%;
+  background-color: pink;
+}
+
+.content{
+  color: pink;
+}
